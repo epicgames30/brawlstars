@@ -1,0 +1,61 @@
+html {
+    color-scheme: light;
+}
+
+body {
+    margin: 0;
+    background: #fff;
+    color: #000;
+    font: 20px/1.2 Arial, sans-serif;
+}
+
+main {
+    width: 600px;
+    max-width: calc(100% - 84px);
+    margin: 54px 42px;
+}
+
+hr {
+    margin: 0;
+    border: 0;
+    border-top: 1px solid #888;
+}
+
+.captcha-slot {
+    display: flex;
+    align-items: center;
+    min-height: 112px;
+    margin: 44px 0 30px;
+}
+
+#locker-container {
+    width: 330px;
+    max-width: 100%;
+}
+
+#locker-container > [data-captcha-enable] {
+    width: 100%;
+}
+
+/* The local preview must not display the provider's Google-style branding. */
+#locker-container .info-text > img,
+#locker-container .info-text > .text {
+    display: none !important;
+}
+
+h1 {
+    margin: 12px 0 22px;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p {
+    margin: 0;
+}
+
+@media (max-width: 480px) {
+    main {
+        max-width: calc(100% - 40px);
+        margin: 32px 20px;
+    }
+}
