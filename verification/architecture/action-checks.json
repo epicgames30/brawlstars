@@ -1,0 +1,58 @@
+[
+  {
+    "cta": "Claim Reward",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://action=voucher&code=example",
+    "lead": "2. Claim a Reward in Brawl Stars!",
+    "search": "?action=voucher&code=example&scheme=ignored"
+  },
+  {
+    "cta": "Add Friend",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://addFriend=player",
+    "lead": "2. Join your Friend in Brawl Stars!",
+    "search": "?addFriend=player"
+  },
+  {
+    "cta": "Join Team",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://join_team=team",
+    "lead": "2. Join a Team in Brawl Stars!",
+    "search": "?join_team=team"
+  },
+  {
+    "cta": "Join Club",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://join_clan=club",
+    "lead": "2. You are invited to a Club!",
+    "search": "?join_clan=club"
+  },
+  {
+    "cta": "View Profile",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://supercell_id=friend",
+    "lead": "2. Your Friend wants to connect with Supercell ID!",
+    "search": "?supercell_id=friend"
+  },
+  {
+    "cta": "Support Creator",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://supportcreator=creator",
+    "lead": "2. Support a Creator in Brawl Stars!",
+    "search": "?supportcreator=creator"
+  },
+  {
+    "cta": "Open Brawl Stars",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://invite=team",
+    "lead": "2. Epic 3v3 and Battle Royale",
+    "search": "?invite=team"
+  },
+  {
+    "cta": "Open Brawl Stars",
+    "heading": "1. Download Brawl Stars",
+    "href": "brawlstars://copyDeck=sample",
+    "lead": "2. Epic 3v3 and Battle Royale",
+    "search": "?copyDeck=sample"
+  }
+]

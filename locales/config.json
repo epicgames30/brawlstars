@@ -1,0 +1,151 @@
+{
+  "game": "brawlstars",
+  "locales": [
+    {
+      "id": "ar",
+      "name": "العربية"
+    },
+    {
+      "id": "cn",
+      "name": "简体中文"
+    },
+    {
+      "id": "cnt",
+      "name": "繁體中文"
+    },
+    {
+      "id": "de",
+      "name": "Deutsch"
+    },
+    {
+      "id": "en",
+      "name": "English"
+    },
+    {
+      "id": "es",
+      "name": "Español"
+    },
+    {
+      "id": "fi",
+      "name": "Suomi"
+    },
+    {
+      "id": "fr",
+      "name": "Français"
+    },
+    {
+      "id": "id",
+      "name": "Bahasa Indonesia"
+    },
+    {
+      "id": "it",
+      "name": "Italiano"
+    },
+    {
+      "id": "jp",
+      "name": "日本語"
+    },
+    {
+      "id": "kr",
+      "name": "한국어"
+    },
+    {
+      "id": "ms",
+      "name": "Bahasa Melayu"
+    },
+    {
+      "id": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "id": "no",
+      "name": "Norsk"
+    },
+    {
+      "id": "pl",
+      "name": "Polski"
+    },
+    {
+      "id": "pt",
+      "name": "Português"
+    },
+    {
+      "id": "ru",
+      "name": "ру́сский"
+    },
+    {
+      "id": "th",
+      "name": "ไทย"
+    },
+    {
+      "id": "tr",
+      "name": "Türkçe"
+    },
+    {
+      "id": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "actions": [
+    "open",
+    "voucher"
+  ],
+  "localesWithLocalizedLogo": [
+    "cn",
+    "cnt",
+    "jp",
+    "kr"
+  ],
+  "gameHomePage": "https://brawlstars.com",
+  "view": {
+    "downloadFirst": true
+  },
+  "downloadLinks": {
+    "android": "https://brawlstars.onelink.me/XKTM/socialreferral",
+    "ios": "https://brawlstars.onelink.me/XKTM/socialreferral"
+  },
+  "appSchemes": {
+    "dev": "brawlstars",
+    "staging": "brawlstars",
+    "production": "brawlstars"
+  },
+  "qrCodeLogoRatio": 0.31,
+  "specialDownloadLinks": {
+    "android": "https://play.brawlstars.com/XKTM/oscfn72r",
+    "ios": "https://play.brawlstars.com/XKTM/oscfn72r"
+  },
+  "hashedSpecialVoucherCodes": [
+    "e5e448830307aa9ce9ea73c1af4095567fc8a06b79c652c4cad7432367bdf81f",
+    "ebe2c30fe170f2c8ede987a71b01e18ad09a26bb06aa3b78129f826bd1bbbd16",
+    "9f8d7151b1fe554c1d4050685c4f00a2d4fedac2a263581770c66bc5fb523d0e",
+    "e36e42cc7078cbe93f79d857992f4b2d8b613b6607b9bb35664b94ab426d9b8b",
+    "acab1b3bdfdb0a5a9f90877e61c0c105bcf183fd7659aa50a151ed8d182ce662",
+    "5c947f3bfb9b9a1d89001e8f06837aaddff0fd2ba55e2cc28942b39b2c943ced",
+    "4dc17ac46c0b5dc22a0bb0d13f0d3e6bf62ce71428cf68c86fc7ba989ea23b4d",
+    "77bc01c163dda22cfac447dcfbdaea0970fb2d47e946195797a63389787f2a68",
+    "1e32c3a70281fc2b8c31e98a25ebc06ccb48f2db809df59d741e63d0f4aab7d3",
+    "e7bd995df9b745bcab84023575fe1a69475cdf85a883d498eb330734d80ef647",
+    "68cb420edff810e986749d6a471e7c86992f3096d38a709c2b928fffd9ec195c",
+    "e732d8bc13f386e8c53ad165176585bd5b7b0c85e19c7f90130113c9f209bf53",
+    "be85e3c096fd0c0f2be26296a37073e37bf1789c15ff8a828982d3502b819887",
+    "653665181cb0bd284e50d3d01bd1dc5a86927d7cb57754d2efe4223b43048dc5",
+    "f485d158fa679431c6b636594b961a3f4f1b7bb205d48b4130e5587f688947e3",
+    "36ca983de9d47e9b5fd7854ff9a3106eec002e54aa213cb559c08b27c09c0f03",
+    "43155c69f4eb32fc68c124deb45472ee0c3836099ba4f8472f9c32af5aef6d53",
+    "f252383e316456aa3ad2787757b2701dfeccc68afd2fc77c95e3dfb39b260ced",
+    "2a9f172cee586d655969f1a732223c4e95eda83d33cefb52c68eae4d76838b17",
+    "d37abf970f1502383f12aae272a95013e18f464f538a33a5264d91cff0752fd1",
+    "e15fbd418a62283584beff78ac03fe8e2c54396248780b183092100d4d9179ab",
+    "10a663ecc2a402d8bbe50b74ff3f4375506fc6ecadddbd111095747882a3df8c",
+    "c0c990b75bdcb4e5120fbec129705fad6762934aea56d0d1c93e57c972e5fd2b",
+    "053cb13cd3fc2cb81631be97c2b2a5e2877c0b122bca3b752802874a4ee6c0e9"
+  ],
+  "socialMedia": {
+    "facebook": "http://www.facebook.com/BrawlStars",
+    "twitter": "https://twitter.com/BrawlStars",
+    "instagram": "https://instagram.com/BrawlStars",
+    "tiktok": "http://supr.cl/tiktok-inbox",
+    "youtube": "https://youtube.com/BrawlStars",
+    "reddit": "https://www.reddit.com/r/brawlstars"
+  }
+}

@@ -1,0 +1,764 @@
+{
+  "320": {
+    "height": 1000,
+    "items": [
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 800,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "main",
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 90,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".logo",
+        "width": 320,
+        "x": 0,
+        "y": 70
+      },
+      {
+        "display": "inline-block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links-heading",
+        "width": 227.14584350585935,
+        "x": 46.42708587646485,
+        "y": 228
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 96.96875,
+        "margin": "12px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links",
+        "width": 227.14584350585935,
+        "x": 46.42708587646485,
+        "y": 268
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "48px 0px 0px",
+        "padding": "0px",
+        "selector": ".lead-wrapper",
+        "width": 269.3333435058594,
+        "x": 25.33333396911621,
+        "y": 412.96875
+      },
+      {
+        "display": "none",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 0,
+        "margin": "20px auto 0px",
+        "padding": "10px",
+        "selector": ".qr-code-container",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "20px / 23px BrawlStars, BrawlStarsFallback",
+        "height": 55,
+        "margin": "20px 0px 0px",
+        "padding": "12px 30px",
+        "selector": ".button",
+        "width": 250.33273315429688,
+        "x": 34.833648681640625,
+        "y": 460.96875
+      },
+      {
+        "display": "grid",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 200.6666717529297,
+        "margin": "0px",
+        "padding": "30px 32px 12px",
+        "selector": "footer",
+        "width": 304.66668701171875,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 53.66666793823242,
+        "margin": "0px",
+        "padding": "0px 0px 28px",
+        "selector": ".social",
+        "width": 240.6666717529297,
+        "x": 32,
+        "y": 830
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 105,
+        "margin": "0px",
+        "padding": "21px 0px 0px",
+        "selector": ".links",
+        "width": 188.6666717529297,
+        "x": 32,
+        "y": 883.6666870117188
+      },
+      {
+        "display": "block",
+        "font": "13.6px Supercell, SupercellFallback",
+        "height": 65.33333587646484,
+        "margin": "0px",
+        "padding": "0px 0px 20px",
+        "selector": "#footer-supercell-com",
+        "width": 52,
+        "x": 220.6666717529297,
+        "y": 923.3333740234376
+      }
+    ],
+    "width": 320
+  },
+  "390": {
+    "height": 1000,
+    "items": [
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 800,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "main",
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 90,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".logo",
+        "width": 350,
+        "x": 20,
+        "y": 70
+      },
+      {
+        "display": "inline-block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links-heading",
+        "width": 227.14584350585935,
+        "x": 81.42708587646484,
+        "y": 228
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 96.96875,
+        "margin": "12px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links",
+        "width": 227.14584350585935,
+        "x": 81.42708587646484,
+        "y": 268
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "48px 0px 0px",
+        "padding": "0px",
+        "selector": ".lead-wrapper",
+        "width": 269.3333435058594,
+        "x": 60.33333587646485,
+        "y": 412.96875
+      },
+      {
+        "display": "none",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 0,
+        "margin": "20px auto 0px",
+        "padding": "10px",
+        "selector": ".qr-code-container",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "20px / 23px BrawlStars, BrawlStarsFallback",
+        "height": 55,
+        "margin": "20px 0px 0px",
+        "padding": "12px 30px",
+        "selector": ".button",
+        "width": 250.33273315429688,
+        "x": 69.83364868164062,
+        "y": 460.96875
+      },
+      {
+        "display": "grid",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 200.6666717529297,
+        "margin": "0px",
+        "padding": "30px 39px 12px",
+        "selector": "footer",
+        "width": 374.6666870117187,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 53.66666793823242,
+        "margin": "0px",
+        "padding": "0px 0px 28px",
+        "selector": ".social",
+        "width": 296.66668701171875,
+        "x": 39,
+        "y": 830
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 105,
+        "margin": "0px",
+        "padding": "21px 0px 0px",
+        "selector": ".links",
+        "width": 244.6666717529297,
+        "x": 39,
+        "y": 883.6666870117188
+      },
+      {
+        "display": "block",
+        "font": "13.6px Supercell, SupercellFallback",
+        "height": 65.33333587646484,
+        "margin": "0px",
+        "padding": "0px 0px 20px",
+        "selector": "#footer-supercell-com",
+        "width": 52,
+        "x": 283.66668701171875,
+        "y": 923.3333740234376
+      }
+    ],
+    "width": 390
+  },
+  "575": {
+    "height": 1000,
+    "items": [
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 800,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "main",
+        "width": 575.3333740234375,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 90,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".logo",
+        "width": 350,
+        "x": 112.66667175292967,
+        "y": 70
+      },
+      {
+        "display": "inline-block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links-heading",
+        "width": 227.14584350585935,
+        "x": 174.09375,
+        "y": 228
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 96.96875,
+        "margin": "12px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links",
+        "width": 227.14584350585935,
+        "x": 174.09375,
+        "y": 268
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "48px 0px 0px",
+        "padding": "0px",
+        "selector": ".lead-wrapper",
+        "width": 269.3333435058594,
+        "x": 153,
+        "y": 412.96875
+      },
+      {
+        "display": "none",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 0,
+        "margin": "20px auto 0px",
+        "padding": "10px",
+        "selector": ".qr-code-container",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "20px / 23px BrawlStars, BrawlStarsFallback",
+        "height": 55,
+        "margin": "20px 0px 0px",
+        "padding": "12px 30px",
+        "selector": ".button",
+        "width": 250.3326873779297,
+        "x": 162.5003204345703,
+        "y": 460.96875
+      },
+      {
+        "display": "grid",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 200.6666717529297,
+        "margin": "0px",
+        "padding": "30px 57.5333px 12px",
+        "selector": "footer",
+        "width": 560,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 53.66666793823242,
+        "margin": "0px",
+        "padding": "0px 0px 28px",
+        "selector": ".social",
+        "width": 444.9375,
+        "x": 57.53125,
+        "y": 830
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 105,
+        "margin": "0px",
+        "padding": "21px 0px 0px",
+        "selector": ".links",
+        "width": 392.9375,
+        "x": 57.53125,
+        "y": 883.6666870117188
+      },
+      {
+        "display": "block",
+        "font": "13.6px Supercell, SupercellFallback",
+        "height": 65.33333587646484,
+        "margin": "0px",
+        "padding": "0px 0px 20px",
+        "selector": "#footer-supercell-com",
+        "width": 52,
+        "x": 450.46875,
+        "y": 923.3333740234376
+      }
+    ],
+    "width": 575
+  },
+  "576": {
+    "height": 1000,
+    "items": [
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 800,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "main",
+        "width": 576,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 90,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".logo",
+        "width": 350,
+        "x": 113,
+        "y": 70
+      },
+      {
+        "display": "inline-block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links-heading",
+        "width": 308,
+        "x": 134,
+        "y": 228
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 44.53125,
+        "margin": "12px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links",
+        "width": 308,
+        "x": 134,
+        "y": 268
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "48px 0px 0px",
+        "padding": "0px",
+        "selector": ".lead-wrapper",
+        "width": 269.3333435058594,
+        "x": 153.33334350585938,
+        "y": 360.53125
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 220,
+        "margin": "20px 12.7604px 0px",
+        "padding": "10px",
+        "selector": ".qr-code-container",
+        "width": 220,
+        "x": 178,
+        "y": 408.53125
+      },
+      {
+        "display": "block",
+        "font": "20px / 23px BrawlStars, BrawlStarsFallback",
+        "height": 55,
+        "margin": "20px 0px 0px",
+        "padding": "12px 30px",
+        "selector": ".button",
+        "width": 250.3326873779297,
+        "x": 162.83364868164062,
+        "y": 648.53125
+      },
+      {
+        "display": "grid",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 200.6666717529297,
+        "margin": "0px",
+        "padding": "30px 57.6px 12px",
+        "selector": "footer",
+        "width": 560.6666870117188,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 53.66666793823242,
+        "margin": "0px",
+        "padding": "0px 0px 28px",
+        "selector": ".social",
+        "width": 445.4791870117187,
+        "x": 57.59375,
+        "y": 830
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 105,
+        "margin": "0px",
+        "padding": "21px 0px 0px",
+        "selector": ".links",
+        "width": 393.4791870117187,
+        "x": 57.59375,
+        "y": 883.6666870117188
+      },
+      {
+        "display": "block",
+        "font": "13.6px Supercell, SupercellFallback",
+        "height": 45.33333587646485,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "#footer-supercell-com",
+        "width": 52,
+        "x": 451.0729370117187,
+        "y": 943.3333740234376
+      }
+    ],
+    "width": 576
+  },
+  "1024": {
+    "height": 1000,
+    "items": [
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 800,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "main",
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 90,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".logo",
+        "width": 350,
+        "x": 337,
+        "y": 70
+      },
+      {
+        "display": "inline-block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links-heading",
+        "width": 308,
+        "x": 358,
+        "y": 228
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 44.53125,
+        "margin": "12px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links",
+        "width": 308,
+        "x": 358,
+        "y": 268
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "48px 0px 0px",
+        "padding": "0px",
+        "selector": ".lead-wrapper",
+        "width": 269.3333435058594,
+        "x": 377.3333435058594,
+        "y": 360.53125
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 220,
+        "margin": "20px 12.7604px 0px",
+        "padding": "10px",
+        "selector": ".qr-code-container",
+        "width": 220,
+        "x": 402,
+        "y": 408.53125
+      },
+      {
+        "display": "block",
+        "font": "20px / 23px BrawlStars, BrawlStarsFallback",
+        "height": 55,
+        "margin": "20px 0px 0px",
+        "padding": "12px 30px",
+        "selector": ".button",
+        "width": 250.3326873779297,
+        "x": 386.8336791992187,
+        "y": 648.53125
+      },
+      {
+        "display": "grid",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 200.6666717529297,
+        "margin": "0px",
+        "padding": "30px 102.4px 12px",
+        "selector": "footer",
+        "width": 1008.6666870117188,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 53.66666793823242,
+        "margin": "0px",
+        "padding": "0px 0px 28px",
+        "selector": ".social",
+        "width": 803.875,
+        "x": 102.39583587646484,
+        "y": 830
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 105,
+        "margin": "0px",
+        "padding": "21px 0px 0px",
+        "selector": ".links",
+        "width": 751.875,
+        "x": 102.39583587646484,
+        "y": 883.6666870117188
+      },
+      {
+        "display": "block",
+        "font": "13.6px Supercell, SupercellFallback",
+        "height": 45.33333587646485,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "#footer-supercell-com",
+        "width": 52,
+        "x": 854.2708740234375,
+        "y": 943.3333740234376
+      }
+    ],
+    "width": 1024
+  },
+  "1440": {
+    "height": 1000,
+    "items": [
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 800,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "main",
+        "width": 1440,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 90,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".logo",
+        "width": 350,
+        "x": 545,
+        "y": 70
+      },
+      {
+        "display": "inline-block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "20px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links-heading",
+        "width": 308,
+        "x": 566,
+        "y": 228
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 44.53125,
+        "margin": "12px 0px 0px",
+        "padding": "0px",
+        "selector": ".download-links",
+        "width": 308,
+        "x": 566,
+        "y": 268
+      },
+      {
+        "display": "block",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 28,
+        "margin": "48px 0px 0px",
+        "padding": "0px",
+        "selector": ".lead-wrapper",
+        "width": 269.3333435058594,
+        "x": 585.3333740234375,
+        "y": 360.53125
+      },
+      {
+        "display": "flex",
+        "font": "24px BrawlStars, BrawlStarsFallback",
+        "height": 220,
+        "margin": "20px 12.7604px 0px",
+        "padding": "10px",
+        "selector": ".qr-code-container",
+        "width": 220,
+        "x": 610,
+        "y": 408.53125
+      },
+      {
+        "display": "block",
+        "font": "20px / 23px BrawlStars, BrawlStarsFallback",
+        "height": 55,
+        "margin": "20px 0px 0px",
+        "padding": "12px 30px",
+        "selector": ".button",
+        "width": 250.3326873779297,
+        "x": 594.8336791992188,
+        "y": 648.53125
+      },
+      {
+        "display": "grid",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 200.6666717529297,
+        "margin": "0px",
+        "padding": "30px 144px 12px",
+        "selector": "footer",
+        "width": 1424.666748046875,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 53.66666793823242,
+        "margin": "0px",
+        "padding": "0px 0px 28px",
+        "selector": ".social",
+        "width": 1136.666748046875,
+        "x": 144,
+        "y": 830
+      },
+      {
+        "display": "flex",
+        "font": "16px Supercell, SupercellFallback",
+        "height": 105,
+        "margin": "0px",
+        "padding": "21px 0px 0px",
+        "selector": ".links",
+        "width": 1084.666748046875,
+        "x": 144,
+        "y": 883.6666870117188
+      },
+      {
+        "display": "block",
+        "font": "13.6px Supercell, SupercellFallback",
+        "height": 45.33333587646485,
+        "margin": "0px",
+        "padding": "0px",
+        "selector": "#footer-supercell-com",
+        "width": 52,
+        "x": 1228.666748046875,
+        "y": 943.3333740234376
+      }
+    ],
+    "width": 1440
+  }
+}

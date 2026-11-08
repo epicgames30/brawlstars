@@ -1,0 +1,233 @@
+[
+  {
+    "broken": [],
+    "heading": "Télécharger Brawl Stars",
+    "locale": "fr",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "fr"
+  },
+  {
+    "broken": [],
+    "heading": "تنزيل ‏Brawl Stars‏",
+    "locale": "ar",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "ar"
+  },
+  {
+    "broken": [],
+    "heading": "下载《荒野乱斗》",
+    "locale": "cn",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "cn"
+  },
+  {
+    "broken": [],
+    "heading": "下載《荒野亂鬥》",
+    "locale": "cnt",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "cnt"
+  },
+  {
+    "broken": [],
+    "heading": "Brawl Stars herunterladen",
+    "locale": "de",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "de"
+  },
+  {
+    "broken": [],
+    "heading": "Descargar Brawl Stars",
+    "locale": "es",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "es"
+  },
+  {
+    "broken": [],
+    "heading": "Lataa Brawl Stars",
+    "locale": "fi",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "fi"
+  },
+  {
+    "broken": [],
+    "heading": "Unduh Brawl Stars",
+    "locale": "id",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "id"
+  },
+  {
+    "broken": [],
+    "heading": "Scarica Brawl Stars",
+    "locale": "it",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "it"
+  },
+  {
+    "broken": [],
+    "heading": "ブロスタをダウンロード",
+    "locale": "jp",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "jp"
+  },
+  {
+    "broken": [],
+    "heading": "브롤스타즈 다운로드",
+    "locale": "kr",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "kr"
+  },
+  {
+    "broken": [],
+    "heading": "Muat Turun Brawl Stars",
+    "locale": "ms",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "ms"
+  },
+  {
+    "broken": [],
+    "heading": "Brawl Stars downloaden",
+    "locale": "nl",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "nl"
+  },
+  {
+    "broken": [],
+    "heading": "Last ned Brawl Stars",
+    "locale": "no",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "no"
+  },
+  {
+    "broken": [],
+    "heading": "Pobierz Brawl Stars",
+    "locale": "pl",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "pl"
+  },
+  {
+    "broken": [],
+    "heading": "Baixar Brawl Stars",
+    "locale": "pt",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "pt"
+  },
+  {
+    "broken": [],
+    "heading": "Скачать Brawl Stars",
+    "locale": "ru",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "ru"
+  },
+  {
+    "broken": [],
+    "heading": "ดาวน์โหลด Brawl Stars",
+    "locale": "th",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "th"
+  },
+  {
+    "broken": [],
+    "heading": "Brawl Stars'ı indir",
+    "locale": "tr",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "tr"
+  },
+  {
+    "broken": [],
+    "heading": "Tải xuống Brawl Stars",
+    "locale": "vi",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "vi"
+  },
+  {
+    "broken": [],
+    "heading": "Download Brawl Stars",
+    "locale": "en",
+    "overflow": false,
+    "scripts": [
+      "/js/qr.js",
+      "/js/script.js"
+    ],
+    "selected": "en"
+  }
+]

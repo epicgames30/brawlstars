@@ -1,0 +1,5 @@
+{
+  "name": "brawl-stars-landing",
+  "private": true,
+  "scripts": { "start": "node server.cjs", "dev": "node server.cjs", "check": "node verify.cjs" }
+}
